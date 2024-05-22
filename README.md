@@ -1,6 +1,6 @@
 # Sereen's Personal Website
 
-![MyWebSite](assets\MyWebSite.png)
+![MyWebSite](assets/MyWebSite.png)
 Welcome to the repository for my personal website! This website serves as my digital home on the web, showcasing my projects, skills, and contact information.
 
 
